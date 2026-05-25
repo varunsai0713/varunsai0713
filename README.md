@@ -6,9 +6,9 @@
 
 💼 I’ve worked on impactful projects like:
 
-* HireFlow – Full-Stack Job Portal (React.js, Supabase, PostgreSQL)
-* Spring Boot HRMS – Automated Employee Management System
-* Market Research Analytics – Data collection and trend analysis
+* **DevConnect** – Developer Collaboration Platform (Java, Spring Boot, React.js, PostgreSQL, JWT)
+* **TaskFlow** – Team Task Management System (Java, Spring Boot, React.js, PostgreSQL)
+* **Spring Boot HRMS** – Automated Employee Management System
 
 Interests: Backend architecture, Full-stack development, API engineering, and Data Structures & Algorithms.
 
@@ -16,8 +16,10 @@ Interests: Backend architecture, Full-stack development, API engineering, and Da
 
 ### 🌐 Let's Connect:
 
-📬 Reach me: [saivarun0713@gmail.com](mailto:saivarun0713@gmail.com)  <br>
-🌐 LinkedIn: [https://www.linkedin.com/in/varun-sai-6379aa242/](https://www.linkedin.com/in/varun-sai-6379aa242/)
+📬 Reach me: saivarun0713@gmail.com
+🌐 Portfolio: [Insert Your Portfolio Link Here] | 🌐 LinkedIn: [Insert Your LinkedIn Link Here]
+
+---
 
 ### 💻 Tech Stack:
 
